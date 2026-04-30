@@ -72,3 +72,7 @@ JOIN Transacoes t ON s.Id = t.SetorId;
 
 João Victor Vendrameto - RM 563665
 Gabriel Ambrósio Saraiva - RM 566552
+
+Link Youtube
+https://youtu.be/FkftLDFFNNQ 
+
